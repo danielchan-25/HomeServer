@@ -75,6 +75,7 @@ server {
 }
 ```
 
+![image](https://user-images.githubusercontent.com/50611800/191492709-91a507a3-48f2-41d1-8971-4f2d65db257b.png)
 
 
 ### Docker
