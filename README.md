@@ -1,4 +1,10 @@
 # HomeServer
+
+[toc]
+
+## 目录
+
+
 ## 购买背景
 
 由于本人只有一台笔记本电脑，需要带去公司工作，家里没有老旧电脑，且想给家里的电视机、路由器、智能家居等设备提供服务，故购入服务器一台。
@@ -140,4 +146,30 @@ docker run -dit \
 whyour/qinglong:latest
 ```
 
+#### Rsshub
 
+用于订阅各种支持 rss 的网页，微博、豆瓣等一大堆都支持，超级方便。
+
+```sh
+docker run -d --name rsshub -p 1200:1200 diygod/rsshub
+```
+
+#### 测速工具
+
+下载东西太慢，当我怀疑自家网络的速率时，就用到这工具。
+
+```sh
+docker run -d -p 51234:80 adolfintel/speedtest
+```
+
+#### uptimeKuma
+
+顺带部署个简单的监控，免得有些服务没起来还不知道呢，还挺简单好用的，访问 `localhost:53001` 后添加即可。
+
+```sh
+docker run \
+--restart=always \
+-p 53001:3001 \
+-v /data/docker/uptime-kuma/data:/app/data \
+--name uptime-kuma \
+-d louislam/uptime-kuma
