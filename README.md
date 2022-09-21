@@ -63,7 +63,18 @@ systemctl start vsftpd && systemctl enable vsftpd
 必备，提供 WEB 服务。
 
 顺带配合 FTP，直接实现下载服务器上的文件功能，不用每次下载都要打开 FTP 客户端了。
-![image](https://user-images.githubusercontent.com/50611800/191491977-bd5b0d0b-13a1-4aee-ae08-07afde9b0d34.png)
+
+```nginx
+autoindex on;
+autoindex_localtime on;
+autoindex_exact_size on;
+server {
+	location /ftp {
+                alias   /data/soft/;
+        }
+}
+```
+
 
 
 ### Docker
