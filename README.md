@@ -119,9 +119,9 @@ p3terx/aria2-pro
 直接添加一个 `location` 反向代理到该文件方便多了。
 
 ```nginx
-       location /d {
-                proxy_pass http://127.0.0.1/Aria2Ng.html;
-        }
+location /d {
+	proxy_pass http://127.0.0.1/Aria2Ng.html;
+}
 ```
 
 #### 青龙面板
