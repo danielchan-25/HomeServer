@@ -61,6 +61,14 @@
 
 安装好 `docker` 后，我习惯创建一个 `/data/docker` 目录，用于存放 `docker` 的各种资料。
 
+
+### Portainer
+
+`Portainer` 用于查看管理 `Docker` 上运行的镜像/容器等，但感觉还是命令行方便点。
+
+<img width="1105" alt="image" src="https://user-images.githubusercontent.com/50611800/191656640-654456fd-47c3-4a0e-90a1-ee03ec2720c3.png">
+
+
 ### Aria2
 
 这个下载器估计没人不知道吧，简单好用，必备下载工具。
