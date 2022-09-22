@@ -71,6 +71,9 @@
 
 每次访问都要在 URL 后添加文件名，太麻烦，直接添加一个 `location` 反向代理到该文件方便多了。
 
+<img width="1110" alt="image" src="https://user-images.githubusercontent.com/50611800/191655932-36b82256-eeb9-4553-aa01-a70177bab6c8.png">
+
+
 ### 青龙面板
 
 `JD`、`Bilibli` 等懂的都懂，薅羊毛必备。
