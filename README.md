@@ -115,6 +115,4 @@
 
 <img width="1105" alt="image" src="https://user-images.githubusercontent.com/50611800/191657155-dcc9427c-e7bd-4a4f-b543-df79cf66f237.png">
 
-私有化相册，只在家里使用，照片太多太多了，存在 `iCloud` 其实挺不错的，但还是有个本地备份安全一点。
-
 
