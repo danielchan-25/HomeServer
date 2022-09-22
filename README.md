@@ -52,7 +52,7 @@
 
 顺带配合 FTP，直接实现下载服务器上的文件功能，不用每次下载都要打开 FTP 客户端了。
 
-![image](https://user-images.githubusercontent.com/50611800/191492709-91a507a3-48f2-41d1-8971-4f2d65db257b.png)
+<img width="1111" alt="image" src="https://user-images.githubusercontent.com/50611800/191656485-7e6fe5e9-2121-43c3-a897-85f8142c5520.png">
 
 
 ## Docker
