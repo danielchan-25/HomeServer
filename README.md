@@ -49,7 +49,6 @@
 | Samba & FTP | 文件传输                                                     |                                                              |
 | Nginx       | 必备，提供 WEB 服务。<br />免得收藏一大堆网页，直接在 `index.html` 里跳转算了 | <img width="694" alt="image" src="https://user-images.githubusercontent.com/50611800/191680745-d72b4db4-bdf6-4f6f-a5cb-492dc3061f83.png"> |
 | Nginx + FTP | 不用每次下载都要打开客户端了。                               | <img width="843" alt="image" src="https://user-images.githubusercontent.com/50611800/191680779-ed5a69e7-496f-4053-ba63-e0efd42d279b.png"> |
-| Docker      | 必备，容器化，简单化                                         |                                                              |
 | Portainer   | `Portainer` 用于查看管理 `Docker` 上运行的镜像/容器等，但感觉还是命令行方便点。 | <img width="1105" alt="image" src="https://user-images.githubusercontent.com/50611800/191656640-654456fd-47c3-4a0e-90a1-ee03ec2720c3.png"> |
 | Aria2       | 这个下载器估计没人不知道吧，简单好用，必备下载工具。<br />配合 `Aria2Ng` 页面方便点。 | <img width="1110" alt="image" src="https://user-images.githubusercontent.com/50611800/191656015-df706f92-a4ec-4d95-abfe-2882b73d383c.png"> |
 | 青龙面板    | `JD` 那些懂的都懂，薅羊毛必备。                              | <img width="1117" alt="image" src="https://user-images.githubusercontent.com/50611800/191656084-fc7cd875-6fd8-4b9e-86f2-5be2fb9fe8a0.png"> |
