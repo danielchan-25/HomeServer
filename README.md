@@ -55,7 +55,7 @@
 | 青龙面板    | `JD` 那些懂的都懂，薅羊毛必备。                              | <img width="1117" alt="image" src="https://user-images.githubusercontent.com/50611800/191656084-fc7cd875-6fd8-4b9e-86f2-5be2fb9fe8a0.png"> |
 | RSSHub      | 用于订阅各种支持 rss 的网页，微博、豆瓣等一大堆都支持，超级方便。 | <img width="1109" alt="image" src="https://user-images.githubusercontent.com/50611800/191656225-855b47d6-310c-41c7-bd6b-6618fb70b7d6.png"> |
 | LibreSpeed  | 当我怀疑自家网络是否出问题时，就用到这工具。                 | <img width="1106" alt="image" src="https://user-images.githubusercontent.com/50611800/191656300-85722109-0f16-498a-a428-446f5d4dd80f.png"> |
-| UptimeKuma  | 监控服务，便于查看哪个服务没启动，简单好用。                 | ![image-20220922145220807](/Users/daniel/Library/Application Support/typora-user-images/image-20220922145220807.png) |
+| UptimeKuma  | 监控服务，便于查看哪个服务没启动，简单好用。                 | <img width="1181" alt="image" src="https://user-images.githubusercontent.com/50611800/191680356-e6a49261-c3f9-443a-877c-d9f51ab7fb84.png"> |
 | Prometheus  | 上面那个监控服务，这个就用来监控服务器。                     | <img width="1120" alt="image" src="https://user-images.githubusercontent.com/50611800/191680039-a43651ae-b288-4498-97b0-42d78015aecc.png"> |
 | Piwigo      | 私有化相册，在家里使用，存在 `iCloud` 其实挺不错的，但还是有个本地备份安心一点。 | <img width="1105" alt="image" src="https://user-images.githubusercontent.com/50611800/191657155-dcc9427c-e7bd-4a4f-b543-df79cf66f237.png"> |
 
