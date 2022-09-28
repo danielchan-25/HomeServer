@@ -1,0 +1,10 @@
+version: '2.9.0'
+services:
+  uptimekuma:
+    image: louislam/uptime-kuma
+    container_name: uptime-kuma
+    network_mode: "bridge"
+    volumes:
+      - "./uptime-kuma/data:/app/data"
+    ports:
+      - "0.0.0.0:3001:3011"

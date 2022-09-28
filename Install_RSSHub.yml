@@ -1,0 +1,8 @@
+version: '2.9.0'
+services:
+  rsshub:
+    image: diygod/rsshub
+    container_name: rsshub
+    network_mode: "bridge"
+    ports:
+      - "0.0.0.0:1200:1200"

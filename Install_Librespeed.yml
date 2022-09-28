@@ -1,0 +1,8 @@
+version: '2.9.0'
+services:
+  librespeed:
+    image: adolfintel/speedtest
+    network_mode: "bridge"
+    container_name: "librespeed"
+    ports:
+      - "0.0.0.0:8001:80"
