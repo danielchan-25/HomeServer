@@ -1,0 +1,11 @@
+version: '2.9.0'
+services:
+  home-assistant:
+    image: homeassistant/home-assistant
+    container_name: homeassistant
+    network_mode: "bridge"
+    restart: unless-stopped
+    volumes:
+      - "./home-assistant:/config"
+    ports:
+      - "0.0.0.0:8123:8123"
