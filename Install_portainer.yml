@@ -1,0 +1,12 @@
+version: '2.9.0'
+services:
+  portainer:
+    image: portainer/portainer-ce
+    restart: always
+    container_name: portainer
+    network_mode: 'bridge'
+    ports:
+      - "0.0.0.0:9000:9000"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+      - "/data/docker/portainer:/data"
