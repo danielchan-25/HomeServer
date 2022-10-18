@@ -56,6 +56,6 @@
 | Piwigo      | 私有化相册，在家里使用，存在 `iCloud` 其实挺不错的，但还是有个本地备份安心一点。 | <img width="1105" alt="image" src="https://user-images.githubusercontent.com/50611800/191657155-dcc9427c-e7bd-4a4f-b543-df79cf66f237.png"> |
 | Home-assistant      | 家庭自动化控制管理平台。 | <img width="418" alt="image" src="https://user-images.githubusercontent.com/50611800/191681222-4a5aa60c-c0e0-40ac-af06-0978b538e11c.png"> |
 | Emby      | 家庭影音。 | ![image](https://user-images.githubusercontent.com/50611800/192724271-e1955c16-5cc9-4ec6-be37-6e593d5ea854.png) |
-
+| Jenkins      | 自动化部署 | ![image](https://user-images.githubusercontent.com/50611800/196400482-1c58531b-d24c-432d-83e6-f0cdfd452d05.png) |
 
 
